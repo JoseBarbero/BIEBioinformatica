@@ -1,2 +1,0 @@
-Introducción a la bioinformática.
-El objetivo de este taller será ofrecer a los alumnos una introducción práctica los problemas del entorno de la bioinformática. Es decir, se tratarán desde una perspectiva práctica conceptos básicos de programación (Python) orientada a tratamiento de secuencias de ADN, ARN y de proteínas. Desde los datos recibidos de la secuenciación hasta la visualización de la estructura de una proteína.
