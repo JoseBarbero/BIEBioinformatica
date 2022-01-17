@@ -1,0 +1,24 @@
+TY  - JOUR
+T1  - Building Structural Models of a Whole Mycoplasma Cell
+AU  - Maritan, Martina
+AU  - Autin, Ludovic
+AU  - Karr, Jonathan
+AU  - Covert, Markus W.
+AU  - Olson, Arthur J.
+AU  - Goodsell, David S.
+JO  - Journal of Molecular Biology
+VL  - 434
+IS  - 2
+SP  - 167351
+PY  - 2022
+DA  - 2022/01/30/
+SN  - 0022-2836
+DO  - https://doi.org/10.1016/j.jmb.2021.167351
+UR  - https://www.sciencedirect.com/science/article/pii/S002228362100588X
+KW  - whole cell modeling
+KW  - computational modeling
+KW  - nucleoid structure
+KW  - scientific visualization
+KW  - mycoplasma genitalium
+AB  - Building structural models of entire cells has been a long-standing cross-discipline challenge for the research community, as it requires an unprecedented level of integration between multiple sources of biological data and enhanced methods for computational modeling and visualization. Here, we present the first 3D structural models of an entire Mycoplasma genitalium (MG) cell, built using the CellPACK suite of computational modeling tools. Our model recapitulates the data described in recent whole-cell system biology simulations and provides a structural representation for all MG proteins, DNA and RNA molecules, obtained by combining experimental and homology-modeled structures and lattice-based models of the genome. We establish a framework for gathering, curating and evaluating these structures, exposing current weaknesses of modeling methods and the boundaries of MG structural knowledge, and visualization methods to explore functional characteristics of the genome and proteome. We compare two approaches for data gathering, a manually-curated workflow and an automated workflow that uses homologous structures, both of which are appropriate for the analysis of mesoscale properties such as crowding and volume occupancy. Analysis of model quality provides estimates of the regularization that will be required when these models are used as starting points for atomic molecular dynamics simulations.
+ER  - 
